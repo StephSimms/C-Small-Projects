@@ -6,12 +6,12 @@ namespace Abstract_Class_Assignment
     {
         static void Main(string[] args)
         {
-            Person person = new Person();
+            Employee employee = new Employee();
 
-            person.fName = "Sample";
-            person.lName = "Sample Sample";
+            employee.fName = "Sample";
+            employee.lName = "Student";
 
-            person.SayName(person.fName, person.lName);
+            employee.SayName(employee.fName, employee.lName);
 
             Console.ReadLine();
 
