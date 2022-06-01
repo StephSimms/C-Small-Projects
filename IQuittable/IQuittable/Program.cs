@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace IQuittable
+namespace Interface_Assignment
 {
     class Program
     {
