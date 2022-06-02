@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Abstract_Class_Assignment
+namespace Interface_Assignment
 {
-    class Person
+    abstract class Person
     {
         public string firstName { get; set; }
         public string lastName { get; set; }

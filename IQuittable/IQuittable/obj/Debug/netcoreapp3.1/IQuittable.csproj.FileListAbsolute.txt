@@ -1,0 +1,5 @@
+C:\Users\steph\source\repos\C-Small-Projects\IQuittable\IQuittable\obj\Debug\netcoreapp3.1\IQuittable.csproj.AssemblyReference.cache
+C:\Users\steph\source\repos\C-Small-Projects\IQuittable\IQuittable\obj\Debug\netcoreapp3.1\IQuittable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\source\repos\C-Small-Projects\IQuittable\IQuittable\obj\Debug\netcoreapp3.1\IQuittable.AssemblyInfoInputs.cache
+C:\Users\steph\source\repos\C-Small-Projects\IQuittable\IQuittable\obj\Debug\netcoreapp3.1\IQuittable.AssemblyInfo.cs
+C:\Users\steph\source\repos\C-Small-Projects\IQuittable\IQuittable\obj\Debug\netcoreapp3.1\IQuittable.csproj.CoreCompileInputs.cache

@@ -6,7 +6,14 @@ namespace Interface_Assignment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Employee employee = new Employee();
+
+            employee.fName = "Sample";
+            employee.lName = "Student";
+
+            employee.SayName(employee.fName, employee.lName);
+
+            Console.ReadLine();
         }
     }
 }

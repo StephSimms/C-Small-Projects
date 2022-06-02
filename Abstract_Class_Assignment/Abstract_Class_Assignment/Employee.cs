@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Abstract_Class_Assignment
+namespace Interface_Assignment
 {
     class Employee : Person
     {
