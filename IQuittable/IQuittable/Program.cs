@@ -8,10 +8,10 @@ namespace Interface_Assignment
         {
             Employee employee = new Employee();
 
-            employee.fName = "Sample";
-            employee.lName = "Student";
+            employee.firstName = "Sample";
+            employee.lastName = "Student";
 
-            employee.SayName(employee.fName, employee.lName);
+            employee.SayName(employee.firstName, employee.lastName);
 
             Console.ReadLine();
         }
